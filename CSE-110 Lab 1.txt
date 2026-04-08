@@ -1,0 +1,122 @@
+﻿Lab Assignment 1 CSE-110
+Name: Jonathan Hunter
+Course: ECE-110 Software Engineering
+Assignment: Lab 1
+Tool:  VScode, Github
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Part 1: Installing Visual Studio Code and Extensions
+
+
+
+
+  
+
+Figure 1: Installation Draw.io
+  
+
+
+
+Figure 2: Installation LiveShare
+  
+
+Figure 3: Installation Markdown All In One
+
+
+  
+
+Figure 4: Installation CodeStream
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Part 2: (Re)Familiarizing Ourselves with Git 
+
+
+Command Line
+
+
+1. clone the repository onto your local machine using the command line. 
+   
+2. cd into the repo folder and create a new git branch called "add-read-me" and checkout that branch into your local repository.
+  
+
+  
+
+3.  N/A
+4.  add the new file to git.
+  
+
+5.  commit the files with the commit message "Update readme file".
+  
+
+
+
+6. push the commit to the remote branch. (You may need to use the set-upstream flag if you created the branch locally).
+  
+
+
+
+
+
+VSCode UI
