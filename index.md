@@ -40,7 +40,7 @@ public class Hello {
 
 [Jump to Tasks](#tasks)
 
-[Link to README]([README.md](https://github.com/ItsStressful/CSE110---Lab1/blob/new-read-me/README.md))
+[Link to README](README.md)
 
 [Link to my image file](287CA133-C57B-4D6E-AEB4-7482319A0FE8.jpeg)
 
