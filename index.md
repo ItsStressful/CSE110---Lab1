@@ -16,7 +16,7 @@ I enjoy working with:
 3. I like learning course material thoroughly 
 
 ## Picture
-![Profile picture](lab1photo.jpg)
+![Profile picture](287CA133-C57B-4D6E-AEB4-7482319A0FE8.jpeg)
 
 ## Text Styling
 This is **bold**.  
@@ -42,7 +42,7 @@ public class Hello {
 
 [Link to README](README.md)
 
-[Link to my image file](lab1photo.jpg)
+[Link to my image file](287CA133-C57B-4D6E-AEB4-7482319A0FE8.jpg)
 
 ## Lists
 
