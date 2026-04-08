@@ -42,7 +42,7 @@ public class Hello {
 
 [Link to README](README.md)
 
-[Link to my image file](287CA133-C57B-4D6E-AEB4-7482319A0FE8.jpg)
+[Link to my image file](287CA133-C57B-4D6E-AEB4-7482319A0FE8.jpeg)
 
 ## Lists
 
